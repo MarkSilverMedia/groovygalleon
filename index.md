@@ -18,5 +18,5 @@ Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be
 
 This section will contain the latest five episodes of the Groovy Galleon Podcast.
 
-| Episode # | Title | Audio |
-| --- | --- | --- |
+[//]: | Episode # | Title | Audio |
+[//]: | --- | --- | --- |
