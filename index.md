@@ -10,9 +10,9 @@ The Groovy Galleon is an archive of freely licensed music. For more information,
 
 Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be found in our [track archive](tunes)):
 
-| Title | Artist | Audio | Lyrics | License | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Who Needs Magic Anyways? | Mark! Silver | <audio src="http://assets.marksilvermedia.tk/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | N/A | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Original Mix |
+| Title | Artist | Audio | Lyrics | License |
+| --- | --- | --- | --- | --- |
+| Who Needs Magic Anyways? | Mark! Silver | <audio src="http://assets.marksilvermedia.tk/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | N/A | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 ## Latest Podcast Episodes
 
