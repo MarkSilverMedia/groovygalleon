@@ -1,6 +1,6 @@
 # About | The Groovy Galleon
 
-**Navigation:** [Home](index.md) \| [About](about.md) \| [Contributors](members.md) \| [Track Archive](tunes.md) \| [Albums](albums.md) \| [Podcast](podcast.md) \| [Miscellaneous](misc.md) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
+**Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Albums](albums) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
 
 ## What is this crazy place?
 
@@ -12,7 +12,7 @@ The Groovy Galleon website itself is licensed under the [Creative Commons Attrib
 
 ## Privacy
 
-This website is written in Markdown, which Github automatically converts to HTML and CSS. The only script that is used is your web browser's native code for playing HTML5 audio. Also, there are no ads on this site, and there never will be. Ads just suck.
+This website is written in Markdown, which Github automatically converts to HTML and CSS. The only script that is used is your web browser's native code for playing HTML5 audio. Also, there are no ads on this site, and there never will be. Ads just suck. If you want to browse this site's code, feel free to browse [its Github repository](https://github.com/MarkSilverMedia/groovygalleon).
 
 ## Contact
 
