@@ -1,4 +1,4 @@
-# [The Groovy Galleon](/index.md)
+# The Groovy Galleon
 
 **Navigation:** [Home](/index.md) \| [About](/about.md) \| [Contributors](/members.md) \| [Track Archive](/tunes.md) \| [Podcast](/podcast.md) \| [Miscellaneous](/misc.md)
 
