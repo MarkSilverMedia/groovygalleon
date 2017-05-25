@@ -4,6 +4,6 @@
 
 Here is a complete list of the tracks showcased on this site, with the newest track at the top of the list.
 
-| Title | Artist | Audio | Lyrics | License | Notes |
-| --- | --- | --- | --- | --- | --- |
-| Who Needs Magic Anyways? | Mark! Silver | <audio src="http://assets.marksilvermedia.tk/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | N/A | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Original Mix |
+| Title | Artist | Audio | Lyrics | License |
+| --- | --- | --- | --- | --- |
+| Who Needs Magic Anyways? | Mark! Silver | <audio src="http://assets.marksilvermedia.tk/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | N/A | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
