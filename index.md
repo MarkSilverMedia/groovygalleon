@@ -4,11 +4,11 @@
 
 ## Welcome
 
-The Groovy Galleon is an archive of freely licensed music. For more information, see our [about page](about.md).
+The Groovy Galleon is an archive of freely licensed music. For more information, see our [about page](about).
 
 ## This Month's New Tracks
 
-Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be found in our [track archive](tunes.md)):
+Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be found in our [track archive](tunes)):
 
 | Title | Artist | Audio | Lyrics | License | Notes |
 | --- | --- | --- | --- | --- | --- |
