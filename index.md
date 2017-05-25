@@ -1,6 +1,6 @@
 # The Groovy Galleon
 
-**Navigation:** [Home](index.md) \| [About](about.md) \| [Contributors](members.md) \| [Track Archive](tunes.md) \| [Podcast](podcast.md) \| [Miscellaneous](misc.md)
+**Navigation:** [Home](index.md) \| [About](about.md) \| [Contributors](members.md) \| [Track Archive](tunes.md) \| [Podcast](podcast.md) \| [Miscellaneous](misc.md) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
 
 ## Welcome
 
@@ -16,4 +16,4 @@ Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be
 
 ## Latest Podcast Episodes
 
-This section will contain the latest five episodes of the Groovy Galleon Podcast.
+This section will contain the latest five episodes of the Groovy Galleon Podcast. The first episode is coming this June.
