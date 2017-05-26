@@ -12,7 +12,7 @@ Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be
 
 | Title | Artist | Audio | Lyrics | License |
 | --- | --- | --- | --- | --- |
-| Who Needs Magic Anyways? | Mark! Silver | <audio src="http://assets.marksilvermedia.tk/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | N/A | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Who Needs Magic Anyways? | Mark! Silver | <audio src="https://marksilvermedia.github.io/assets/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | N/A | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 ## Latest Podcast Episodes
 
