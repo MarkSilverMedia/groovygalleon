@@ -4,7 +4,7 @@
 
 ## What is this crazy place?
 
-The Groovy Galleon is the musical blogspace/archive/podcast run by [Mark! Silver](https://marksilvermedia.github.io). This project was inspired by [one of his previous projects](http://emawm.tk), [a website by Kevin Macleod](http://freepd.com/), and [The Lunduke Hour](https://www.youtube.com/playlist?list=PLgkr4-AWobWFUEG70HQa-IRls2NGMhtp4). This project serves primarily as a way for Mark to share demos he recorded, but this project will soon feature freely-licensed work from other artists as well. Additionally, starting in June, this site will double as a podcast for Mark to discuss various things about music, whether it be a look at music he's been listening to, a conversation about the music industry, or an interview with a guest artist.
+The Groovy Galleon is the musical track archive & podcast run by [Mark! Silver](https://marksilvermedia.github.io). This project was inspired by [one of his previous projects](http://emawm.tk), [a website by Kevin Macleod](http://freepd.com/), and [The Lunduke Hour](https://www.youtube.com/playlist?list=PLgkr4-AWobWFUEG70HQa-IRls2NGMhtp4). This project serves primarily as a way for Mark to share demos he recorded, but this project will occasionally feature freely-licensed work from other artists as well. Additionally, starting on June 24th, this site will double as a podcast for Mark to discuss various things about music, whether it be a look at music he's been listening to, a showcase of artists on bandcamp, or an interview with a guest artist.
 
 ## Licensing
 
