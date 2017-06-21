@@ -6,9 +6,9 @@
 
 The Groovy Galleon is an archive of quality freely-licensed music. For more information, see our [about page](about).
 
-## This Month's New Tracks
+## Mark's Latest Tracks
 
-Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be found in our [track archive](tunes)):
+Here are the latest tracks that I've released on this website (older tracks can be found in the [track archive](tunes)):
 
 | Title | Artist | Audio | Lyrics | License |
 | --- | --- | --- | --- | --- |
@@ -17,4 +17,4 @@ Tracks added to the Groovy Galleon in the month of May 2017 (older tracks can be
 
 ## Latest Podcast Episodes
 
-This section will contain the latest five episodes of the Groovy Galleon Podcast. The first episode is coming this June.
+This section will contain the latest five episodes of the Groovy Galleon Podcast. The first episode is coming on June 24th (or 25th).
