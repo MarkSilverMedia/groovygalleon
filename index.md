@@ -17,4 +17,8 @@ Here are the latest tracks that I've released on this website (older tracks can 
 
 ## Latest Podcast Episodes
 
-This section will contain the latest five episodes of the Groovy Galleon Podcast. The first episode is coming on June 24th (or 25th).
+This section contains the latest five episodes of the Groovy Galleon Podcast.
+
+| Ep# | Title | Audio | Show Notes | License |
+| --- | --- | --- | --- | --- |
+| 1 | [Sometimes, the cat shivers.](https://archive.org/details/groovygalleonE1) | <audio src="https://archive.org/download/groovygalleonE1/gge1.flac" controls></audio> | [e1.txt](https://archive.org/download/groovygalleonE1/e1.txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
