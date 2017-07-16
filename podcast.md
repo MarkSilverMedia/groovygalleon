@@ -2,9 +2,11 @@
 
 **Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
 
-The podcast has finally arrived! Here's all the episodes, with the newest one on top.
+The Groovy Galleon Podcast is your home for reviews of primarily alternative music that you may or may not have heard of. Here are all of its episodes, with the newest one on top.
 
 [Play these tracks in VLC!](podcast.playlist)
+
+Want to contribute to this podcast? Click [here](submit).
 
 | Ep# | Title | Audio | Show Notes | License |
 | --- | --- | --- | --- | --- |
