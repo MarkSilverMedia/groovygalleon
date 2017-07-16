@@ -6,6 +6,8 @@ Here is a complete list of the tracks showcased on this site, with the newest tr
 
 [Play these tracks in VLC!](tunes.playlist)
 
+Want your music to appear on this list? Click [here](submit).
+
 | Title | Artist | Audio | Lyrics | License |
 | --- | --- | --- | --- | --- |
 | Mr. Lansing's Road (50/90 Demo) | Mark! Silver | <audio src="https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac" controls></audio> | [Yes](https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road%20(Lyrics).txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
