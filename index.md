@@ -16,7 +16,7 @@ Here are the latest tracks released on this website (older tracks can be found i
 | Don't Let The Sun (Acoustic Demo) | Mark! Silver | <audio src="https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg" controls></audio> | [Yes](https://archive.org/download/dontletthesunacoustic/Don%27t%20Let%20The%20Sun) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | Who Needs Magic Anyways? | Mark! Silver | <audio src="https://marksilvermedia.github.io/assets/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
-Want your music to appear in this list? Click [here](submit).
+Want your music to appear on this list? Click [here](submit).
 
 ## Latest Podcast Episodes
 
