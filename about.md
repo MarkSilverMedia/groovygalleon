@@ -1,6 +1,6 @@
 # About | The Groovy Galleon
 
-**Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Albums](albums) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
+**Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
 
 ## What is this crazy place?
 
