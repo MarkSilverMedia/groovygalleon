@@ -12,7 +12,7 @@ Do you make music? Is it groovy? Is it freely licensed? If you answered yes to a
 - Any audio format is fine, but I especially prefer mp3, ogg, & flac, because they're all libre formats. If you send me a video, I'll convert it to flac, simply because videos would make this site a bit messy.
 - I'll manually read through every submission I receive, and try to get back to you within a day about whether it will appear on the track archive.
 - Please submit your own work. Even if another artist licenses their music in a way where it could appear on this website, I'd still rather it be a decision that they make, not you. Sorry. :P
-- I want to make this process as fair as possible, but at the same time, I'm a human being with personal tastes, upon which I reserve the right to reject a submitted track. If your track isn't accepted into the arhive, I will inform you of exactly my reasoning for doing so.
+- I want to make this process as fair as possible, but at the same time, I'm a human being with personal tastes, upon which I reserve the right to reject a submitted track. If your track isn't accepted into the archive, I will inform you of exactly my reasoning for doing so.
 
 ## Podcast Interview?
 
