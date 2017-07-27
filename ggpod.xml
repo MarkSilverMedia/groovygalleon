@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+
+<title>The Groovy Galleon Podcast</title>
+<link>https://marksilvermedia.github.io/groovygalleon/podcast</link>
+<description>The hip &amp; cool music-oriented podcast by Mark! Silver.</description>
+
+<item>
+
+<title>The Groovy Galleon Podcast - Episode 2: Celebrate American Independence with Japanese Jazz Fusion</title>
+
+<link>https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac</link>
+<guid>https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac</guid>
+
+<pubDate>2017-07-15</pubDate>
+
+<description>We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty, the pursuit of Happiness, and of course, the right to listen to the hip and cool music-oriented podcast known by no other name than the Groovy Galleon. My name is Mark! Silver (the exclamation point is of course silent), and you are listening to episode two of this podcast.</description>
+
+<enclosure url="https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac" type="audio/flac"/>
+
+</item>
+
+<item>
+
+<title>The Groovy Galleon Podcast - Episode 1: Sometimes, the cat shivers.</title>
+
+<link>https://archive.org/download/groovygalleonE1/gge1.flac</link>
+<guid>https://archive.org/download/groovygalleonE1/gge1.flac</guid>
+
+<pubDate>2017-06-25</pubDate>
+
+<description>Holy new podcast, Batman! Today, Mark! (the exclamation point is silent) begins his podcasting journey by reviewing music; most of which you probably haven't heard of. This episode begins with an obligatory short introduction before taking a look into the latest Foresters album. Mark then gives a lengthy in-depth review/analysis/something of the brand spankin' new Sometimes the Cat album. Lastly, we get to hear the start of Mark's compact disc collection before he goes into detail about the process of creating his Roadtrip 2017 album (as well as an HTML/CSS-based bandcamp alternative).</description>
+
+<enclosure url="https://archive.org/download/groovygalleonE1/gge1.flac" type="audio/flac"/>
+
+</item>
+
+</channel>
+</rss>
