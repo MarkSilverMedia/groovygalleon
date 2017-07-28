@@ -4,7 +4,7 @@
 
 Here is a complete list of the tracks showcased on this site, with the newest track at the top of the list.
 
-[Play these tracks in VLC!](tunes.playlist)
+[Subscribe to the Track Archive RSS Feed](ggta.xml)
 
 Want your music to appear on this list? Click [here](submit).
 
