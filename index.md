@@ -4,7 +4,7 @@
 
 ## Welcome
 
-The Groovy Galleon is an archive of quality freely-licensed music. For more information, see our [about page](about).
+The Groovy Galleon is an archive of freely-licensed music, a podcast about music, & a whole lot of fun! For more information, see this site's [about page](about).
 
 ## Latest Tracks
 
