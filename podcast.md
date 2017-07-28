@@ -4,7 +4,7 @@
 
 The Groovy Galleon Podcast is your home for reviews of primarily alternative music that you may or may not have heard of. Here are all of its episodes, with the newest one on top.
 
-[Play these tracks in VLC!](podcast.playlist)
+[Subscribe to the Podcast RSS Feed](ggpod.xml)
 
 Want to contribute to this podcast? Click [here](submit).
 
