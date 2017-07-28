@@ -10,6 +10,8 @@ The Groovy Galleon is an archive of quality freely-licensed music. For more info
 
 Here are the latest tracks released on this website (older tracks can be found in the [track archive](tunes)):
 
+[Subscribe to the Track Archive RSS Feed](ggta.xml)
+
 | Title | Artist | Audio | Lyrics | License |
 | --- | --- | --- | --- | --- |
 | Mr. Lansing's Road (50/90 Demo) | Mark! Silver | <audio src="https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac" controls></audio> | [Yes](https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road%20(Lyrics).txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
@@ -21,6 +23,8 @@ Want your music to appear on this list? Click [here](submit).
 ## Latest Podcast Episodes
 
 This section contains the latest five episodes of the Groovy Galleon Podcast.
+
+[Subscribe to the Podcast RSS Feed](ggpod.xml)
 
 | Ep# | Title | Audio | Show Notes | License |
 | --- | --- | --- | --- | --- |
