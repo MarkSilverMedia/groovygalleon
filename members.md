@@ -2,4 +2,8 @@
 
 **Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
 
-Currently, Mark! Silver is the only person who's on this website. In the future, contributing musicians and podcast guests will additionally be listed on this page.
+Everything by Mark EXCEPT:
+
+## Podcast Guests
+
+**Episode 3:** [Minimall](https://minimall.bandcamp.com/) (Allegra Rosenberg, Merced Stratton, Maral Ohan, Wynne Males, and Brennan Doyle)
