@@ -27,9 +27,10 @@ This section contains the latest five episodes of the Groovy Galleon Podcast.
 
 [Subscribe to the Podcast RSS Feed](ggpod.xml)
 
-| Ep# | Title | Audio | Show Notes | License |
-| --- | --- | --- | --- | --- |
-| 2 | [Celebrate American Independence with Japanese Jazz Fusion](https://archive.org/details/marksilvermedia_protonmail_Gge2) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac" controls></audio> | [e2.txt](https://archive.org/download/marksilvermedia_protonmail_Gge2/e2.txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| 1 | [Sometimes, the cat shivers.](https://archive.org/details/groovygalleonE1) | <audio src="https://archive.org/download/groovygalleonE1/gge1.flac" controls></audio> | [e1.txt](https://archive.org/download/groovygalleonE1/e1.txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Ep# | Title | Audio | Show Notes | Video | License |
+| --- | --- | --- | --- | --- | --- |
+| 3 | [Went Shopping at the Minimall](https://archive.org/details/GroovyGalleonE3) | <audio src="https://archive.org/download/GroovyGalleonE3/gge3.flac" controls></audio> | [e3.txt](https://archive.org/download/GroovyGalleonE3/e3.txt) | [Yes](https://archive.org/download/GroovyGalleonE3/gge3.webm) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 2 | [Celebrate American Independence with Japanese Jazz Fusion](https://archive.org/details/marksilvermedia_protonmail_Gge2) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac" controls></audio> | [e2.txt](https://archive.org/download/marksilvermedia_protonmail_Gge2/e2.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 1 | [Sometimes, the cat shivers.](https://archive.org/details/groovygalleonE1) | <audio src="https://archive.org/download/groovygalleonE1/gge1.flac" controls></audio> | [e1.txt](https://archive.org/download/groovygalleonE1/e1.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 Want to contribute to this podcast? Click [here](submit).
