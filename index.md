@@ -8,32 +8,32 @@ The Groovy Galleon is an archive of freely-licensed music, a podcast about music
 
 ## Latest Tracks
 
-Here are the latest tracks released on this website (older tracks can be found in the [track archive](tunes)):
+Here are the latest five tracks released on this website (older tracks can be found in the [track archive](tunes)):
 
 [Subscribe to the Track Archive RSS Feed](ggta.xml)
 
 | Title | Artist | Audio | Lyrics | License |
 | --- | --- | --- | --- | --- |
-| Book | Mark! Silver (Co-written by Josh Price) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Book/book.flac" controls></audio> | [Yes](https://archive.org/download/marksilvermedia_protonmail_Book/Book.txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Spacejunk | Mark! Silver | <audio src="https://archive.org/download/Spacejunk_201707/Spacejunk.flac" controls></audio> | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Mr. Lansing's Road (50/90 Demo) | Mark! Silver | <audio src="https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac" controls></audio> | [Yes](https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road%20(Lyrics).txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Don't Let The Sun (Acoustic Demo) | Mark! Silver | <audio src="https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg" controls></audio> | [Yes](https://archive.org/download/dontletthesunacoustic/Don%27t%20Let%20The%20Sun) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| Who Needs Magic Anyways? | Mark! Silver | <audio src="https://marksilvermedia.github.io/assets/music/emawm/whoneedsmagicanyways.mp3" controls></audio> | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Nostalgia Night (Library Demo) | Mark! Silver | <audio src="https://archive.org/download/NostalgiaNightLibraryDemo/NostalgiaNightLibraryDemo.flac" controls>[Download](https://archive.org/download/NostalgiaNightLibraryDemo/NostalgiaNightLibraryDemo.flac)</audio> | [Yes](https://archive.org/download/NostalgiaNightLibraryDemo/nosnite.txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Book | Mark! Silver (Co-written by Josh Price) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Book/book.flac" controls>[Download](https://archive.org/download/marksilvermedia_protonmail_Book/book.flac)</audio> | [Yes](https://archive.org/download/marksilvermedia_protonmail_Book/Book.txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Spacejunk | Mark! Silver | <audio src="https://archive.org/download/Spacejunk_201707/Spacejunk.flac" controls>[Download](https://archive.org/download/Spacejunk_201707/Spacejunk.flac)</audio> | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Mr. Lansing's Road (50/90 Demo) | Mark! Silver | <audio src="https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac" controls>[Download](https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road.flac)</audio> | [Yes](https://archive.org/download/Mr.LansingsRoad/Mr.%20Lansing's%20Road%20(Lyrics).txt) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| Don't Let The Sun (Acoustic Demo) | Mark! Silver | <audio src="https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg" controls>[Download](https://ia601505.us.archive.org/10/items/dontletthesunacoustic/dontletthesunacoustic.ogg)</audio> | [Yes](https://archive.org/download/dontletthesunacoustic/Don%27t%20Let%20The%20Sun) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 Want your music to appear on this list? Click [here](submit).
 
 ## Latest Podcast Episodes
 
-This section contains the latest five episodes of the Groovy Galleon Podcast.
+This section contains the latest five episodes of the Groovy Galleon Podcast (older episodes can be found [here](podcast)).
 
 [Subscribe to the Podcast RSS Feed](ggpod.xml)
 
 | Ep# | Title | Audio | Show Notes | Video | License |
 | --- | --- | --- | --- | --- | --- |
-| 5 | [The Jamendo Variety Show](https://archive.org/details/ggpod5) | <audio src="https://archive.org/download/ggpod5/gge5.flac" controls></audio> | [e5.txt](https://archive.org/download/ggpod5/e5.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| 4 | [A Comprehensive History of Ska Music](https://archive.org/details/marksilvermedia_protonmail_Gge4) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge4/gge4.flac" controls></audio> | [e4.txt](https://archive.org/download/marksilvermedia_protonmail_Gge4/e4.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| 3 | [Went Shopping at the Minimall](https://archive.org/details/GroovyGalleonE3) | <audio src="https://archive.org/download/GroovyGalleonE3/gge3.flac" controls></audio> | [e3.txt](https://archive.org/download/GroovyGalleonE3/e3.txt) | [Yes](https://archive.org/download/GroovyGalleonE3/gge3.webm) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| 2 | [Celebrate American Independence with Japanese Jazz Fusion](https://archive.org/details/marksilvermedia_protonmail_Gge2) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac" controls></audio> | [e2.txt](https://archive.org/download/marksilvermedia_protonmail_Gge2/e2.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
-| 1 | [Sometimes, the cat shivers.](https://archive.org/details/groovygalleonE1) | <audio src="https://archive.org/download/groovygalleonE1/gge1.flac" controls></audio> | [e1.txt](https://archive.org/download/groovygalleonE1/e1.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 5 | [The Jamendo Variety Show](https://archive.org/details/ggpod5) | <audio src="https://archive.org/download/ggpod5/gge5.flac" controls>[Download](https://archive.org/download/ggpod5/gge5.flac)</audio> | [e5.txt](https://archive.org/download/ggpod5/e5.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 4 | [A Comprehensive History of Ska Music](https://archive.org/details/marksilvermedia_protonmail_Gge4) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge4/gge4.flac" controls>[Download](https://archive.org/download/marksilvermedia_protonmail_Gge4/gge4.flac)</audio> | [e4.txt](https://archive.org/download/marksilvermedia_protonmail_Gge4/e4.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 3 | [Went Shopping at the Minimall](https://archive.org/details/GroovyGalleonE3) | <audio src="https://archive.org/download/GroovyGalleonE3/gge3.flac" controls>[Download](https://archive.org/download/GroovyGalleonE3/gge3.flac)</audio> | [e3.txt](https://archive.org/download/GroovyGalleonE3/e3.txt) | [Yes](https://archive.org/download/GroovyGalleonE3/gge3.webm) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 2 | [Celebrate American Independence with Japanese Jazz Fusion](https://archive.org/details/marksilvermedia_protonmail_Gge2) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac" controls>[Download](https://archive.org/download/marksilvermedia_protonmail_Gge2/gge2.flac)</audio> | [e2.txt](https://archive.org/download/marksilvermedia_protonmail_Gge2/e2.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| 1 | [Sometimes, the cat shivers.](https://archive.org/details/groovygalleonE1) | <audio src="https://archive.org/download/groovygalleonE1/gge1.flac" controls>[Download](https://archive.org/download/groovygalleonE1/gge1.flac)</audio> | [e1.txt](https://archive.org/download/groovygalleonE1/e1.txt) | No | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 Want to contribute to this podcast? Click [here](submit).
