@@ -1,6 +1,6 @@
 # Submit/Contact | The Groovy Galleon
 
-**Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
+**Navigation:** [Home](index) \| [About](about) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \|
 
 All submissions should go to "mark silver media at proton mail dot com". Here are a few Groovy Galleon-related things you can submit to that email address:
 

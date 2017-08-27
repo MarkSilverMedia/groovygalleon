@@ -1,6 +1,6 @@
 # Podcast | The Groovy Galleon
 
-**Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
+**Navigation:** [Home](index) \| [About](about) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \|
 
 The Groovy Galleon Podcast is your home for reviews of primarily alternative music that you may or may not have heard of. Here are all of its episodes, with the newest one on top.
 

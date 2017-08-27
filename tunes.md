@@ -1,6 +1,6 @@
 # Track Archive | The Groovy Galleon
 
-**Navigation:** [Home](index) \| [About](about) \| [Contributors](members) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \| [Miscellaneous](misc) \| [Repo](https://github.com/MarkSilverMedia/groovygalleon)
+**Navigation:** [Home](index) \| [About](about) \| [Track Archive](tunes) \| [Submit/Contact](submit) \| [Podcast](podcast) \|
 
 Here is a complete list of the tracks showcased on this site, with the newest track at the top of the list.
 
