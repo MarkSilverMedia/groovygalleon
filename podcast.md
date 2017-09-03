@@ -10,6 +10,7 @@ Want to contribute to this podcast? Click [here](submit).
 
 | Ep# | Title | Audio | Show Notes |
 | --- | --- | --- | --- |
+| 8 | [The Calm Before The Storm](https://archive.org/details/GroovyGalleon8) | <audio src="https://archive.org/download/GroovyGalleon8/gge8.flac" controls>[Download](https://archive.org/download/GroovyGalleon8/gge8.flac)</audio> | [e8.txt](https://archive.org/download/GroovyGalleon8/e8.txt) |
 | 7 | [Pseudonymous Eponymous](https://archive.org/details/GroovyGalleon7) | <audio src="https://archive.org/download/GroovyGalleon7/gge7.flac" controls>[Download](https://archive.org/download/GroovyGalleon7/gge7.flac)</audio> | [e7.txt](https://archive.org/download/GroovyGalleon7/e7.txt) |
 | 6 | [Oh, the genres you'll hear.](https://archive.org/details/marksilvermedia_protonmail_Gge6) | <audio src="https://archive.org/download/marksilvermedia_protonmail_Gge6/gge6.flac" controls>[Download](https://archive.org/download/marksilvermedia_protonmail_Gge6/gge6.flac)</audio> | [e6.txt](https://archive.org/download/marksilvermedia_protonmail_Gge6/e6.txt) |
 | 5 | [The Jamendo Variety Show](https://archive.org/details/ggpod5) | <audio src="https://archive.org/download/ggpod5/gge5.flac" controls>[Download](https://archive.org/download/ggpod5/gge5.flac)</audio> | [e5.txt](https://archive.org/download/ggpod5/e5.txt) |
